@@ -245,9 +245,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Acknowledgments
 
@@ -256,28 +253,10 @@ MIT License - see LICENSE file for details
 - Data validation with [Pydantic](https://pydantic-docs.helpmanual.io/)
 - Uses [Rejseplanen API 2.0](https://labs.rejseplanen.dk/)
 
-## Roadmap
-
-- [x] Price calculation for trips ✅
-- [x] Address-based trip planning ✅
-- [x] Find nearby stops ✅
-- [ ] Add caching for faster responses
-- [ ] Real-time departure monitoring with auto-refresh
-- [ ] Weather integration
-- [ ] Export trip details to calendar/file
-- [ ] Interactive mode for easier navigation
-- [ ] Push notifications for delays
-- [ ] Support for bike routes
-- [ ] Multi-language support
-
 ## Support
 
 If you encounter any issues or have questions:
 
 1. Check the [Issues](https://github.com/andreadiluca/rejseplanen-cli/issues) page
 2. Create a new issue with details
-3. Contact the maintainers
-
----
-
-Made with ❤️ for Danish public transport users
+3. Feel free to contact me 😊
