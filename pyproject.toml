@@ -31,9 +31,9 @@ dev = [
 rejs = "rejseplanen.cli:cli"
 
 [project.urls]
-Homepage = "https://github.com/andreadiluca/rejseplanen-cli"
-Repository = "https://github.com/andreadiluca/rejseplanen-cli"
-Issues = "https://github.com/andreadiluca/rejseplanen-cli/issues"
+Homepage = "https://github.com/ndrdlc/rejseplanen-cli"
+Repository = "https://github.com/ndrdlc/rejseplanen-cli"
+Issues = "https://github.com/ndrdlc/rejseplanen-cli/issues"
 
 [build-system]
 requires = ["hatchling"]

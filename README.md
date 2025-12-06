@@ -25,7 +25,7 @@ Modern command-line tool for Danish public transport using Rejseplanen API 2.0.
 
 ```bash
 # Clone the repository
-git clone https://github.com/andreadiluca/rejseplanen-cli.git
+git clone https://github.com/ndrdlc/rejseplanen-cli.git
 cd rejseplanen-cli
 
 # Install uv (fast package installer)
@@ -257,6 +257,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/andreadiluca/rejseplanen-cli/issues) page
+1. Check the [Issues](https://github.com/ndrdlc/rejseplanen-cli/issues) page
 2. Create a new issue with details
 3. Feel free to contact me 😊
